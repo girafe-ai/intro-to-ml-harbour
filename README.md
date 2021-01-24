@@ -3,7 +3,7 @@ Introduction to Machine Learning @ Harbour.Space University course repository
 
 | Day    | Content                | Video & Quiz | Lesson Materials | Extra Materials | Home Assignment & Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
-| 01     | Introduction to the course   |  | Slides, Practice session notebook |  |  |
+| 01     | Course intro   |  | Slides, Practice session notebook |  |  |
 | 02     |    |  |  |  |  |
 | 03     |    |  |  |  |  |
 | 04     |    |  |  |  |  |
