@@ -1,6 +1,6 @@
 import os
 import numpy as np
-from matplotlib.pyplot import imread
+from imageio import imread
 from sklearn.model_selection import train_test_split
 from glob import glob
 
