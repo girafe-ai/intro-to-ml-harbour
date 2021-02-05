@@ -1,0 +1,1 @@
+Day 05 practice: Decision Trees [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/intro-to-ml-harbour/blob/master/day05_decision_tree_and_random_forest/day05_decision_trees.ipynb)
