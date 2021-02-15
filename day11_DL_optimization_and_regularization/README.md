@@ -1,0 +1,2 @@
+﻿More PyTorch practice on Dataloaders, model saving and regularization:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/intro-to-ml-harbour/blob/master/day11_DL_optimization_and_regularization/11_PyTorch_and_Dataloaders.ipynb)
