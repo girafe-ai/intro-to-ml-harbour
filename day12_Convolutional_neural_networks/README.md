@@ -1,0 +1,2 @@
+﻿PyTorch cats and dogs classification practice:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/intro-to-ml-harbour/blob/master/day12_Convolutional_neural_networks/12_cnn_seminar.ipynb)
