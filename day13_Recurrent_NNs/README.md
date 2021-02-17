@@ -1,0 +1,2 @@
+﻿Generating names with RNN in PyTorch:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/intro-to-ml-harbour/blob/master/day13_Recurrent_NNs/13_seq2seq_rnn_practice.ipynb)
